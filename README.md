@@ -31,4 +31,4 @@ You can see the live demo of this project at
 
 1. **Download or clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/greenden-site.git
+   git clone https://github.com/vadivarasan-45/Greenden-tailwindcss.git
